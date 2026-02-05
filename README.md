@@ -42,28 +42,28 @@
 
 <h3 align="left">Stack principal</h3>
 <p align="left">
-  <a href="https://skillicons.dev">
+  <a href="#">
     <img src="https://skillicons.dev/icons?i=php,laravel,java,nodejs,py,spring,flask,fastapi,nestjs" />
   </a>
 </p>
 
 <h3 align="left">Frontend</h3>
 <p align="left">
-  <a href="https://skillicons.dev">
+  <a href="#">
     <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind" />
   </a>
 </p>
 
 <h3 align="left">Base de datos</h3>
 <p align="left">
-  <a href="https://skillicons.dev">
+  <a href="#">
     <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
   </a>
 </p>
 
 <h3 align="left">Nube y herramientas</h3>
 <p align="left">
-  <a href="https://skillicons.dev">
+  <a href="#">
     <img src="https://skillicons.dev/icons?i=azure,aws,git,github,docker,figma,vscode,postman,linux" />
   </a>
 </p>
