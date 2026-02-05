@@ -28,7 +28,7 @@
 
 - 🌱 Actualmente aprendiendo **DevOps**
 - 👨‍💻 Proyectos en **GitHub**: https://github.com/bauguden
-- 💬 Pregúntame sobre **Python, PHP y NodeJS**
+- 💬 Pregúntame sobre **Python, PHP, DataBase y NodeJS**
 - 📫 Contacto: **denzelguden123@gmail.com**
 
 <br>
