@@ -20,10 +20,6 @@
   <a href="https://www.facebook.com/denzel.bau/">Facebook</a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bauguden&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="Visitas al perfil" />
-</p>
-
 ---
 
 <img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
@@ -35,6 +31,9 @@
 - 💬 Pregúntame sobre **Python, PHP y NodeJS**
 - 📫 Contacto: **denzelguden123@gmail.com**
 
+<br>
+<br>
+<br>
 <br>
 
 <h3 align="left">Stack principal</h3>
