@@ -35,6 +35,10 @@
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
 
 <h3 align="left">Stack principal</h3>
 <p align="left">
