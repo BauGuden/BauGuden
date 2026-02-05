@@ -16,7 +16,6 @@
 
 <p align="center">
   <a href="mailto:denzelguden123@gmail.com">Email</a> •
-  <a href="https://linkedin.com/in/denzelbau">LinkedIn</a> •
   <a href="https://www.instagram.com/d3.n.z3_1/">Instagram</a> •
   <a href="https://www.facebook.com/denzel.bau/">Facebook</a>
 </p>
@@ -72,4 +71,4 @@
   <em><b>Me gusta conectar con diferentes personas</b>, así que si quieres saludar, estaré encantado de conocerte 🙂</em>
 </p>
 
-<p align="right">Creado con 🧡 por <a href="https://linkedin.com/in/denzelbau">Denzel Bau</a></p>
+<p align="right">Creado con 🧡 por <a href="">Denzel Bau</a></p>
